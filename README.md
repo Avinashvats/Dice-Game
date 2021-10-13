@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Avinashvats
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript and React.js.
+- 👀 I’m interested in Web Development/FrontEnd Development.
 - 📫 How to reach me https://www.linkedin.com/in/avinashvats/
 
 <!---
